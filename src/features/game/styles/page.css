@@ -7,5 +7,9 @@
 }
 .page-home{
   height: 100dvh;
+
+  gap: 0.4em;
   padding: 1em;
+
+  animation: load-in 300ms;
 }

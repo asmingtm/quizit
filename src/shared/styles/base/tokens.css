@@ -12,9 +12,13 @@
 
   --label: hsl(0, 0%, 100%);
   --summary: hsl(0, 0%, 75%);
+  --icon: hsl(0, 0%, 50%);
 
-  --sucess: rgb(34, 117, 97);
-  --error: rgb(218, 17, 17);
+  --sucess: rgb(34, 117, 62);
+  --sucess-reduced: rgb(136, 46, 46, 0.25);
+
+  --error: rgb(136, 46, 46);
+  --error-reduced: rgb(136, 46, 46, 0.25);
 
   --radius: 12px;
   --thickness: 1px;

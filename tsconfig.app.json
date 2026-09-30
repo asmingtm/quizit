@@ -25,9 +25,9 @@
     /* Paths */
     "paths": {
       "@features": ["./src/features/"],
-      "@data": ["./src/app/data/"],
-      "@providers": ["./src/app/providers/"],
-      "@routes": ["./src/app/routes/"],
+      "@data": ["./src/app/data"],
+      "@providers": ["./src/app/providers"],
+      "@routes": ["./src/app/routes"],
       "@hooks": ["./src/shared/hooks/"],
       "@utils": ["./src/shared/utils/"],
       "@contexts": ["./src/shared/contexts/"],

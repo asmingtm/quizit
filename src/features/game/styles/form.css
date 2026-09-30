@@ -6,8 +6,6 @@
   width: min(100%, 460px);
 
   border-radius: var(--radius);
-
-  animation: load-in 380ms;
 }
 .display, .display-text, .action-list{
   width: 100%;
@@ -19,7 +17,6 @@
   font-family: 'Lora', 'Times New Roman', Times, serif;
   font-weight: bold;
   letter-spacing: 0.1ch;
-  text-align: center;
   font-size: 1.4em;
 
   padding: 0.8em 1em;

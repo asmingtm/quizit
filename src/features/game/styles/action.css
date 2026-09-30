@@ -20,20 +20,24 @@
   background: var(--solid-raised);
 
   outline: none;
-  border: none;
+  border: var(--thickness) solid transparent;
   border-radius: var(--radius);
 
   gap: 0.4em;
   padding: 0.8em 2.2em;
   transition: all var(--delay);
 }
-.action:hover{
+.action.disabled{
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+.action:is(.enabled):hover{
   background: var(--solid-raised-hover);
 
   scale: 1.04;
   rotate: 0.6deg;
 }
-.action:active{
+.action:is(.enabled):active{
   scale: 0.96;
   rotate: -0.6deg;
 }
@@ -52,17 +56,11 @@
 }
 
 .action.positive.active{
-  background: var(--sucess);
-
-  * {
-    color: black;
-  }
+  background: var(--sucess-reduced);
+  border-color: var(--sucess);
 }
 
 .action.negative.active{
-  background: var(--error);
-
-  * {
-    color: black;
-  }
+  background: var(--error-reduced);
+  border-color: var(--error);
 }

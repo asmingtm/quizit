@@ -1,0 +1,1 @@
+export type GameStateType = "loading" | "starting" | "playing" | "scoring" | "stopped";

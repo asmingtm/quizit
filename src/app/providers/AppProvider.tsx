@@ -1,13 +1,15 @@
 import { Outlet } from "react-router";
 import { IconContext } from "react-icons";
-import { QueryContextProvider } from "@contexts";
+import { QueryContextProvider, StateContextProvider } from "@contexts";
 
 export function AppProvider() {
     return(
-        <QueryContextProvider>
-            <IconContext.Provider value={{className: "icon"}}>
-                <Outlet />
-            </IconContext.Provider>
-        </QueryContextProvider>
+        <StateContextProvider>
+            <QueryContextProvider>
+                <IconContext.Provider value={{className: "icon"}}>
+                    <Outlet />
+                </IconContext.Provider>
+            </QueryContextProvider>
+        </StateContextProvider>
     );
 }

@@ -1,6 +1,6 @@
 import { createBrowserRouter } from "react-router";
 import { AppProvider } from "../providers/AppProvider";
-import { HomePage } from "@features";
+import { GamePage } from "@features";
 
 export const routes = createBrowserRouter([
     {
@@ -8,7 +8,7 @@ export const routes = createBrowserRouter([
         children: [
             {
                 path: "/",
-                element: <HomePage />
+                element: <GamePage />
             }
         ]
     }
