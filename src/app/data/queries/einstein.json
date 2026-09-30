@@ -1,0 +1,2717 @@
+{
+  "version": "0.0.0",
+  "difficulty": "Einstein",
+  "queries": [
+    {
+      "id": 0,
+      "question": "A fair coin is tossed repeatedly until the first head appears. What is the expected number of tosses?",
+      "categories": [
+        "Mathematics",
+        "Probability"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "1"
+        },
+        {
+          "id": 1,
+          "label": "2"
+        },
+        {
+          "id": 2,
+          "label": "3"
+        },
+        {
+          "id": 3,
+          "label": "4"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 1,
+      "question": "Which result shows that no consistent formal system capable of expressing elementary arithmetic can prove all true arithmetic statements, assuming it is effectively axiomatized?",
+      "categories": [
+        "Mathematics",
+        "Logic"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Completeness theorem"
+        },
+        {
+          "id": 1,
+          "label": "First incompleteness theorem"
+        },
+        {
+          "id": 2,
+          "label": "Intermediate value theorem"
+        },
+        {
+          "id": 3,
+          "label": "Bayes' theorem"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 2,
+      "question": "In general relativity, the equivalence principle identifies local indistinguishability between which two effects?",
+      "categories": [
+        "Physics",
+        "Relativity"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Mass and energy"
+        },
+        {
+          "id": 1,
+          "label": "Gravity and acceleration"
+        },
+        {
+          "id": 2,
+          "label": "Time and space"
+        },
+        {
+          "id": 3,
+          "label": "Charge and field"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 3,
+      "question": "For a lossless incompressible fluid in steady flow, which principle relates pressure, speed, and height along a streamline?",
+      "categories": [
+        "Physics",
+        "Fluid Mechanics"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Pascal's principle"
+        },
+        {
+          "id": 1,
+          "label": "Bernoulli's principle"
+        },
+        {
+          "id": 2,
+          "label": "Hooke's law"
+        },
+        {
+          "id": 3,
+          "label": "Gauss's law"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 4,
+      "question": "Which computational problem is the canonical NP-complete problem involving finding a subset whose sum equals a target?",
+      "categories": [
+        "Computer Science",
+        "Algorithms",
+        "Complexity"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Sorting"
+        },
+        {
+          "id": 1,
+          "label": "Subset Sum"
+        },
+        {
+          "id": 2,
+          "label": "Binary Search"
+        },
+        {
+          "id": 3,
+          "label": "Minimum Spanning Tree"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 5,
+      "question": "If a square matrix has determinant zero, what must be true?",
+      "categories": [
+        "Mathematics",
+        "Linear Algebra"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "It is orthogonal"
+        },
+        {
+          "id": 1,
+          "label": "It is singular"
+        },
+        {
+          "id": 2,
+          "label": "It is diagonal"
+        },
+        {
+          "id": 3,
+          "label": "It has only positive eigenvalues"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 6,
+      "question": "Which phenomenon demonstrates that measurement outcomes can depend on the order of noncommuting quantum observables?",
+      "categories": [
+        "Physics",
+        "Quantum Mechanics"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Photoelectric effect"
+        },
+        {
+          "id": 1,
+          "label": "Operator noncommutativity"
+        },
+        {
+          "id": 2,
+          "label": "Doppler effect"
+        },
+        {
+          "id": 3,
+          "label": "Brownian motion"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 7,
+      "question": "Which theorem connects continuous symmetries of a physical system with conservation laws?",
+      "categories": [
+        "Physics",
+        "Mathematics"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Noether's theorem"
+        },
+        {
+          "id": 1,
+          "label": "Gauss's theorem"
+        },
+        {
+          "id": 2,
+          "label": "Green's theorem"
+        },
+        {
+          "id": 3,
+          "label": "Pythagorean theorem"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 8,
+      "question": "In Bayesian inference, what is the posterior proportional to?",
+      "categories": [
+        "Mathematics",
+        "Probability",
+        "Statistics"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Prior divided by likelihood"
+        },
+        {
+          "id": 1,
+          "label": "Likelihood times prior"
+        },
+        {
+          "id": 2,
+          "label": "Evidence minus prior"
+        },
+        {
+          "id": 3,
+          "label": "Likelihood divided by prior"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 9,
+      "question": "Which algorithm finds shortest paths from a source in a graph with possibly negative edge weights but no negative cycles?",
+      "categories": [
+        "Algorithms",
+        "Computer Science"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Dijkstra's algorithm"
+        },
+        {
+          "id": 1,
+          "label": "Bellman-Ford algorithm"
+        },
+        {
+          "id": 2,
+          "label": "Prim's algorithm"
+        },
+        {
+          "id": 3,
+          "label": "Kruskal's algorithm"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 10,
+      "question": "What is the rank of a matrix in linear algebra?",
+      "categories": [
+        "Mathematics",
+        "Linear Algebra"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Its determinant"
+        },
+        {
+          "id": 1,
+          "label": "The dimension of its column space"
+        },
+        {
+          "id": 2,
+          "label": "Its largest entry"
+        },
+        {
+          "id": 3,
+          "label": "The number of diagonal entries"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 11,
+      "question": "Which paradox challenges naive assumptions about sets that contain themselves?",
+      "categories": [
+        "Mathematics",
+        "Logic",
+        "Set Theory"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Russell's paradox"
+        },
+        {
+          "id": 1,
+          "label": "Twin paradox"
+        },
+        {
+          "id": 2,
+          "label": "Birthday paradox"
+        },
+        {
+          "id": 3,
+          "label": "Monty Hall problem"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 12,
+      "question": "Which theorem states that every bounded sequence in R^n has a convergent subsequence?",
+      "categories": [
+        "Mathematics",
+        "Analysis"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Bolzano-Weierstrass theorem"
+        },
+        {
+          "id": 1,
+          "label": "Fermat's theorem"
+        },
+        {
+          "id": 2,
+          "label": "Green's theorem"
+        },
+        {
+          "id": 3,
+          "label": "Rolle's theorem"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 13,
+      "question": "What is the Shannon entropy of a fair binary random variable, measured in bits?",
+      "categories": [
+        "Information Theory",
+        "Mathematics"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "0"
+        },
+        {
+          "id": 1,
+          "label": "0.5"
+        },
+        {
+          "id": 2,
+          "label": "1"
+        },
+        {
+          "id": 3,
+          "label": "2"
+        }
+      ],
+      "correctOptionId": 2
+    },
+    {
+      "id": 14,
+      "question": "Which cryptographic assumption underlies the security of RSA in its classical formulation?",
+      "categories": [
+        "Cryptography",
+        "Computer Science"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Easy factoring"
+        },
+        {
+          "id": 1,
+          "label": "Difficulty of integer factorization"
+        },
+        {
+          "id": 2,
+          "label": "Difficulty of sorting"
+        },
+        {
+          "id": 3,
+          "label": "Difficulty of hashing"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 15,
+      "question": "In quantum mechanics, the absolute square of a normalized wavefunction gives what?",
+      "categories": [
+        "Physics",
+        "Quantum Mechanics"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Energy directly"
+        },
+        {
+          "id": 1,
+          "label": "Probability density"
+        },
+        {
+          "id": 2,
+          "label": "Momentum directly"
+        },
+        {
+          "id": 3,
+          "label": "Temperature"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 16,
+      "question": "Which theorem states that a continuous function on a compact set attains both a maximum and a minimum?",
+      "categories": [
+        "Mathematics",
+        "Analysis"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Extreme value theorem"
+        },
+        {
+          "id": 1,
+          "label": "Central limit theorem"
+        },
+        {
+          "id": 2,
+          "label": "Fundamental theorem of arithmetic"
+        },
+        {
+          "id": 3,
+          "label": "Mean value theorem"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 17,
+      "question": "Which class contains decision problems verifiable in polynomial time?",
+      "categories": [
+        "Computer Science",
+        "Complexity"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "P"
+        },
+        {
+          "id": 1,
+          "label": "NP"
+        },
+        {
+          "id": 2,
+          "label": "PSPACE only"
+        },
+        {
+          "id": 3,
+          "label": "EXP only"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 18,
+      "question": "What does the eigenvalue equation Av = λv imply about v when v is nonzero?",
+      "categories": [
+        "Mathematics",
+        "Linear Algebra"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "v is an eigenvector of A"
+        },
+        {
+          "id": 1,
+          "label": "v is necessarily zero"
+        },
+        {
+          "id": 2,
+          "label": "A is necessarily invertible"
+        },
+        {
+          "id": 3,
+          "label": "λ is necessarily zero"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 19,
+      "question": "Which cosmological observation provides strong evidence that the universe is expanding?",
+      "categories": [
+        "Astronomy",
+        "Cosmology"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Stellar parallax alone"
+        },
+        {
+          "id": 1,
+          "label": "Galactic redshift-distance relation"
+        },
+        {
+          "id": 2,
+          "label": "Lunar phases"
+        },
+        {
+          "id": 3,
+          "label": "Solar eclipses"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 20,
+      "question": "If a function is differentiable at a point, what does that guarantee?",
+      "categories": [
+        "Mathematics",
+        "Calculus"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "It is discontinuous there"
+        },
+        {
+          "id": 1,
+          "label": "It is continuous there"
+        },
+        {
+          "id": 2,
+          "label": "It has a global maximum"
+        },
+        {
+          "id": 3,
+          "label": "Its second derivative exists"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 21,
+      "question": "Which theorem guarantees that every finite subgroup of the multiplicative group of a field is cyclic?",
+      "categories": [
+        "Mathematics",
+        "Abstract Algebra"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Finite subgroup theorem"
+        },
+        {
+          "id": 1,
+          "label": "Structure theorem for finite abelian groups"
+        },
+        {
+          "id": 2,
+          "label": "Lagrange's theorem"
+        },
+        {
+          "id": 3,
+          "label": "Cyclic subgroup theorem"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 22,
+      "question": "In special relativity, which quantity is invariant for all inertial observers?",
+      "categories": [
+        "Physics",
+        "Relativity"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Coordinate time"
+        },
+        {
+          "id": 1,
+          "label": "Spatial distance alone"
+        },
+        {
+          "id": 2,
+          "label": "Spacetime interval"
+        },
+        {
+          "id": 3,
+          "label": "Kinetic energy"
+        }
+      ],
+      "correctOptionId": 2
+    },
+    {
+      "id": 23,
+      "question": "Which complexity class is closed under polynomial-time many-one reductions and contains SAT?",
+      "categories": [
+        "Computer Science",
+        "Complexity"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "P"
+        },
+        {
+          "id": 1,
+          "label": "NP"
+        },
+        {
+          "id": 2,
+          "label": "L"
+        },
+        {
+          "id": 3,
+          "label": "NC"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 24,
+      "question": "For a symmetric real matrix, what can be said about its eigenvalues?",
+      "categories": [
+        "Mathematics",
+        "Linear Algebra"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "They are all real"
+        },
+        {
+          "id": 1,
+          "label": "They are all positive"
+        },
+        {
+          "id": 2,
+          "label": "They are all distinct"
+        },
+        {
+          "id": 3,
+          "label": "They are all integers"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 25,
+      "question": "Which theorem characterizes when a sequence of functions may exchange limit and integral under a standard domination condition?",
+      "categories": [
+        "Mathematics",
+        "Analysis"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Dominated convergence theorem"
+        },
+        {
+          "id": 1,
+          "label": "Green's theorem"
+        },
+        {
+          "id": 2,
+          "label": "Mean value theorem"
+        },
+        {
+          "id": 3,
+          "label": "Cauchy's integral theorem"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 26,
+      "question": "Which physical effect is directly responsible for the frequency shift observed when a source and observer move relative to each other?",
+      "categories": [
+        "Physics",
+        "Waves"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Doppler effect"
+        },
+        {
+          "id": 1,
+          "label": "Compton effect"
+        },
+        {
+          "id": 2,
+          "label": "Hall effect"
+        },
+        {
+          "id": 3,
+          "label": "Casimir effect"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 27,
+      "question": "Which problem asks whether a given Turing machine eventually halts on a given input?",
+      "categories": [
+        "Computer Science",
+        "Theory of Computation"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Halting problem"
+        },
+        {
+          "id": 1,
+          "label": "Knapsack problem"
+        },
+        {
+          "id": 2,
+          "label": "Clique problem"
+        },
+        {
+          "id": 3,
+          "label": "Traveling salesman problem"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 28,
+      "question": "Which mathematical structure consists of a set with an associative operation, an identity, and inverses for every element?",
+      "categories": [
+        "Mathematics",
+        "Abstract Algebra"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Ring"
+        },
+        {
+          "id": 1,
+          "label": "Group"
+        },
+        {
+          "id": 2,
+          "label": "Field"
+        },
+        {
+          "id": 3,
+          "label": "Vector space"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 29,
+      "question": "Which physical law relates the voltage across a resistor to current and resistance?",
+      "categories": [
+        "Physics",
+        "Electricity"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Ohm's law"
+        },
+        {
+          "id": 1,
+          "label": "Faraday's law"
+        },
+        {
+          "id": 2,
+          "label": "Lenz's law"
+        },
+        {
+          "id": 3,
+          "label": "Ampere's law"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 30,
+      "question": "A fair coin is tossed repeatedly until the first head appears. What is the expected number of tosses?",
+      "categories": [
+        "Mathematics",
+        "Probability"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "1"
+        },
+        {
+          "id": 1,
+          "label": "2"
+        },
+        {
+          "id": 2,
+          "label": "3"
+        },
+        {
+          "id": 3,
+          "label": "4"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 31,
+      "question": "Which result shows that no consistent formal system capable of expressing elementary arithmetic can prove all true arithmetic statements, assuming it is effectively axiomatized?",
+      "categories": [
+        "Mathematics",
+        "Logic"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Completeness theorem"
+        },
+        {
+          "id": 1,
+          "label": "First incompleteness theorem"
+        },
+        {
+          "id": 2,
+          "label": "Intermediate value theorem"
+        },
+        {
+          "id": 3,
+          "label": "Bayes' theorem"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 32,
+      "question": "In general relativity, the equivalence principle identifies local indistinguishability between which two effects?",
+      "categories": [
+        "Physics",
+        "Relativity"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Mass and energy"
+        },
+        {
+          "id": 1,
+          "label": "Gravity and acceleration"
+        },
+        {
+          "id": 2,
+          "label": "Time and space"
+        },
+        {
+          "id": 3,
+          "label": "Charge and field"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 33,
+      "question": "For a lossless incompressible fluid in steady flow, which principle relates pressure, speed, and height along a streamline?",
+      "categories": [
+        "Physics",
+        "Fluid Mechanics"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Pascal's principle"
+        },
+        {
+          "id": 1,
+          "label": "Bernoulli's principle"
+        },
+        {
+          "id": 2,
+          "label": "Hooke's law"
+        },
+        {
+          "id": 3,
+          "label": "Gauss's law"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 34,
+      "question": "Which computational problem is the canonical NP-complete problem involving finding a subset whose sum equals a target?",
+      "categories": [
+        "Computer Science",
+        "Algorithms",
+        "Complexity"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Sorting"
+        },
+        {
+          "id": 1,
+          "label": "Subset Sum"
+        },
+        {
+          "id": 2,
+          "label": "Binary Search"
+        },
+        {
+          "id": 3,
+          "label": "Minimum Spanning Tree"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 35,
+      "question": "If a square matrix has determinant zero, what must be true?",
+      "categories": [
+        "Mathematics",
+        "Linear Algebra"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "It is orthogonal"
+        },
+        {
+          "id": 1,
+          "label": "It is singular"
+        },
+        {
+          "id": 2,
+          "label": "It is diagonal"
+        },
+        {
+          "id": 3,
+          "label": "It has only positive eigenvalues"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 36,
+      "question": "Which phenomenon demonstrates that measurement outcomes can depend on the order of noncommuting quantum observables?",
+      "categories": [
+        "Physics",
+        "Quantum Mechanics"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Photoelectric effect"
+        },
+        {
+          "id": 1,
+          "label": "Operator noncommutativity"
+        },
+        {
+          "id": 2,
+          "label": "Doppler effect"
+        },
+        {
+          "id": 3,
+          "label": "Brownian motion"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 37,
+      "question": "Which theorem connects continuous symmetries of a physical system with conservation laws?",
+      "categories": [
+        "Physics",
+        "Mathematics"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Noether's theorem"
+        },
+        {
+          "id": 1,
+          "label": "Gauss's theorem"
+        },
+        {
+          "id": 2,
+          "label": "Green's theorem"
+        },
+        {
+          "id": 3,
+          "label": "Pythagorean theorem"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 38,
+      "question": "In Bayesian inference, what is the posterior proportional to?",
+      "categories": [
+        "Mathematics",
+        "Probability",
+        "Statistics"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Prior divided by likelihood"
+        },
+        {
+          "id": 1,
+          "label": "Likelihood times prior"
+        },
+        {
+          "id": 2,
+          "label": "Evidence minus prior"
+        },
+        {
+          "id": 3,
+          "label": "Likelihood divided by prior"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 39,
+      "question": "Which algorithm finds shortest paths from a source in a graph with possibly negative edge weights but no negative cycles?",
+      "categories": [
+        "Algorithms",
+        "Computer Science"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Dijkstra's algorithm"
+        },
+        {
+          "id": 1,
+          "label": "Bellman-Ford algorithm"
+        },
+        {
+          "id": 2,
+          "label": "Prim's algorithm"
+        },
+        {
+          "id": 3,
+          "label": "Kruskal's algorithm"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 40,
+      "question": "What is the rank of a matrix in linear algebra?",
+      "categories": [
+        "Mathematics",
+        "Linear Algebra"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Its determinant"
+        },
+        {
+          "id": 1,
+          "label": "The dimension of its column space"
+        },
+        {
+          "id": 2,
+          "label": "Its largest entry"
+        },
+        {
+          "id": 3,
+          "label": "The number of diagonal entries"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 41,
+      "question": "Which paradox challenges naive assumptions about sets that contain themselves?",
+      "categories": [
+        "Mathematics",
+        "Logic",
+        "Set Theory"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Russell's paradox"
+        },
+        {
+          "id": 1,
+          "label": "Twin paradox"
+        },
+        {
+          "id": 2,
+          "label": "Birthday paradox"
+        },
+        {
+          "id": 3,
+          "label": "Monty Hall problem"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 42,
+      "question": "Which theorem states that every bounded sequence in R^n has a convergent subsequence?",
+      "categories": [
+        "Mathematics",
+        "Analysis"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Bolzano-Weierstrass theorem"
+        },
+        {
+          "id": 1,
+          "label": "Fermat's theorem"
+        },
+        {
+          "id": 2,
+          "label": "Green's theorem"
+        },
+        {
+          "id": 3,
+          "label": "Rolle's theorem"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 43,
+      "question": "What is the Shannon entropy of a fair binary random variable, measured in bits?",
+      "categories": [
+        "Information Theory",
+        "Mathematics"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "0"
+        },
+        {
+          "id": 1,
+          "label": "0.5"
+        },
+        {
+          "id": 2,
+          "label": "1"
+        },
+        {
+          "id": 3,
+          "label": "2"
+        }
+      ],
+      "correctOptionId": 2
+    },
+    {
+      "id": 44,
+      "question": "Which cryptographic assumption underlies the security of RSA in its classical formulation?",
+      "categories": [
+        "Cryptography",
+        "Computer Science"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Easy factoring"
+        },
+        {
+          "id": 1,
+          "label": "Difficulty of integer factorization"
+        },
+        {
+          "id": 2,
+          "label": "Difficulty of sorting"
+        },
+        {
+          "id": 3,
+          "label": "Difficulty of hashing"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 45,
+      "question": "In quantum mechanics, the absolute square of a normalized wavefunction gives what?",
+      "categories": [
+        "Physics",
+        "Quantum Mechanics"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Energy directly"
+        },
+        {
+          "id": 1,
+          "label": "Probability density"
+        },
+        {
+          "id": 2,
+          "label": "Momentum directly"
+        },
+        {
+          "id": 3,
+          "label": "Temperature"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 46,
+      "question": "Which theorem states that a continuous function on a compact set attains both a maximum and a minimum?",
+      "categories": [
+        "Mathematics",
+        "Analysis"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Extreme value theorem"
+        },
+        {
+          "id": 1,
+          "label": "Central limit theorem"
+        },
+        {
+          "id": 2,
+          "label": "Fundamental theorem of arithmetic"
+        },
+        {
+          "id": 3,
+          "label": "Mean value theorem"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 47,
+      "question": "Which class contains decision problems verifiable in polynomial time?",
+      "categories": [
+        "Computer Science",
+        "Complexity"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "P"
+        },
+        {
+          "id": 1,
+          "label": "NP"
+        },
+        {
+          "id": 2,
+          "label": "PSPACE only"
+        },
+        {
+          "id": 3,
+          "label": "EXP only"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 48,
+      "question": "What does the eigenvalue equation Av = λv imply about v when v is nonzero?",
+      "categories": [
+        "Mathematics",
+        "Linear Algebra"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "v is an eigenvector of A"
+        },
+        {
+          "id": 1,
+          "label": "v is necessarily zero"
+        },
+        {
+          "id": 2,
+          "label": "A is necessarily invertible"
+        },
+        {
+          "id": 3,
+          "label": "λ is necessarily zero"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 49,
+      "question": "Which cosmological observation provides strong evidence that the universe is expanding?",
+      "categories": [
+        "Astronomy",
+        "Cosmology"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Stellar parallax alone"
+        },
+        {
+          "id": 1,
+          "label": "Galactic redshift-distance relation"
+        },
+        {
+          "id": 2,
+          "label": "Lunar phases"
+        },
+        {
+          "id": 3,
+          "label": "Solar eclipses"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 50,
+      "question": "If a function is differentiable at a point, what does that guarantee?",
+      "categories": [
+        "Mathematics",
+        "Calculus"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "It is discontinuous there"
+        },
+        {
+          "id": 1,
+          "label": "It is continuous there"
+        },
+        {
+          "id": 2,
+          "label": "It has a global maximum"
+        },
+        {
+          "id": 3,
+          "label": "Its second derivative exists"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 51,
+      "question": "Which theorem guarantees that every finite subgroup of the multiplicative group of a field is cyclic?",
+      "categories": [
+        "Mathematics",
+        "Abstract Algebra"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Finite subgroup theorem"
+        },
+        {
+          "id": 1,
+          "label": "Structure theorem for finite abelian groups"
+        },
+        {
+          "id": 2,
+          "label": "Lagrange's theorem"
+        },
+        {
+          "id": 3,
+          "label": "Cyclic subgroup theorem"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 52,
+      "question": "In special relativity, which quantity is invariant for all inertial observers?",
+      "categories": [
+        "Physics",
+        "Relativity"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Coordinate time"
+        },
+        {
+          "id": 1,
+          "label": "Spatial distance alone"
+        },
+        {
+          "id": 2,
+          "label": "Spacetime interval"
+        },
+        {
+          "id": 3,
+          "label": "Kinetic energy"
+        }
+      ],
+      "correctOptionId": 2
+    },
+    {
+      "id": 53,
+      "question": "Which complexity class is closed under polynomial-time many-one reductions and contains SAT?",
+      "categories": [
+        "Computer Science",
+        "Complexity"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "P"
+        },
+        {
+          "id": 1,
+          "label": "NP"
+        },
+        {
+          "id": 2,
+          "label": "L"
+        },
+        {
+          "id": 3,
+          "label": "NC"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 54,
+      "question": "For a symmetric real matrix, what can be said about its eigenvalues?",
+      "categories": [
+        "Mathematics",
+        "Linear Algebra"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "They are all real"
+        },
+        {
+          "id": 1,
+          "label": "They are all positive"
+        },
+        {
+          "id": 2,
+          "label": "They are all distinct"
+        },
+        {
+          "id": 3,
+          "label": "They are all integers"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 55,
+      "question": "Which theorem characterizes when a sequence of functions may exchange limit and integral under a standard domination condition?",
+      "categories": [
+        "Mathematics",
+        "Analysis"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Dominated convergence theorem"
+        },
+        {
+          "id": 1,
+          "label": "Green's theorem"
+        },
+        {
+          "id": 2,
+          "label": "Mean value theorem"
+        },
+        {
+          "id": 3,
+          "label": "Cauchy's integral theorem"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 56,
+      "question": "Which physical effect is directly responsible for the frequency shift observed when a source and observer move relative to each other?",
+      "categories": [
+        "Physics",
+        "Waves"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Doppler effect"
+        },
+        {
+          "id": 1,
+          "label": "Compton effect"
+        },
+        {
+          "id": 2,
+          "label": "Hall effect"
+        },
+        {
+          "id": 3,
+          "label": "Casimir effect"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 57,
+      "question": "Which problem asks whether a given Turing machine eventually halts on a given input?",
+      "categories": [
+        "Computer Science",
+        "Theory of Computation"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Halting problem"
+        },
+        {
+          "id": 1,
+          "label": "Knapsack problem"
+        },
+        {
+          "id": 2,
+          "label": "Clique problem"
+        },
+        {
+          "id": 3,
+          "label": "Traveling salesman problem"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 58,
+      "question": "Which mathematical structure consists of a set with an associative operation, an identity, and inverses for every element?",
+      "categories": [
+        "Mathematics",
+        "Abstract Algebra"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Ring"
+        },
+        {
+          "id": 1,
+          "label": "Group"
+        },
+        {
+          "id": 2,
+          "label": "Field"
+        },
+        {
+          "id": 3,
+          "label": "Vector space"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 59,
+      "question": "Which physical law relates the voltage across a resistor to current and resistance?",
+      "categories": [
+        "Physics",
+        "Electricity"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Ohm's law"
+        },
+        {
+          "id": 1,
+          "label": "Faraday's law"
+        },
+        {
+          "id": 2,
+          "label": "Lenz's law"
+        },
+        {
+          "id": 3,
+          "label": "Ampere's law"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 60,
+      "question": "A fair coin is tossed repeatedly until the first head appears. What is the expected number of tosses?",
+      "categories": [
+        "Mathematics",
+        "Probability"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "1"
+        },
+        {
+          "id": 1,
+          "label": "2"
+        },
+        {
+          "id": 2,
+          "label": "3"
+        },
+        {
+          "id": 3,
+          "label": "4"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 61,
+      "question": "Which result shows that no consistent formal system capable of expressing elementary arithmetic can prove all true arithmetic statements, assuming it is effectively axiomatized?",
+      "categories": [
+        "Mathematics",
+        "Logic"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Completeness theorem"
+        },
+        {
+          "id": 1,
+          "label": "First incompleteness theorem"
+        },
+        {
+          "id": 2,
+          "label": "Intermediate value theorem"
+        },
+        {
+          "id": 3,
+          "label": "Bayes' theorem"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 62,
+      "question": "In general relativity, the equivalence principle identifies local indistinguishability between which two effects?",
+      "categories": [
+        "Physics",
+        "Relativity"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Mass and energy"
+        },
+        {
+          "id": 1,
+          "label": "Gravity and acceleration"
+        },
+        {
+          "id": 2,
+          "label": "Time and space"
+        },
+        {
+          "id": 3,
+          "label": "Charge and field"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 63,
+      "question": "For a lossless incompressible fluid in steady flow, which principle relates pressure, speed, and height along a streamline?",
+      "categories": [
+        "Physics",
+        "Fluid Mechanics"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Pascal's principle"
+        },
+        {
+          "id": 1,
+          "label": "Bernoulli's principle"
+        },
+        {
+          "id": 2,
+          "label": "Hooke's law"
+        },
+        {
+          "id": 3,
+          "label": "Gauss's law"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 64,
+      "question": "Which computational problem is the canonical NP-complete problem involving finding a subset whose sum equals a target?",
+      "categories": [
+        "Computer Science",
+        "Algorithms",
+        "Complexity"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Sorting"
+        },
+        {
+          "id": 1,
+          "label": "Subset Sum"
+        },
+        {
+          "id": 2,
+          "label": "Binary Search"
+        },
+        {
+          "id": 3,
+          "label": "Minimum Spanning Tree"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 65,
+      "question": "If a square matrix has determinant zero, what must be true?",
+      "categories": [
+        "Mathematics",
+        "Linear Algebra"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "It is orthogonal"
+        },
+        {
+          "id": 1,
+          "label": "It is singular"
+        },
+        {
+          "id": 2,
+          "label": "It is diagonal"
+        },
+        {
+          "id": 3,
+          "label": "It has only positive eigenvalues"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 66,
+      "question": "Which phenomenon demonstrates that measurement outcomes can depend on the order of noncommuting quantum observables?",
+      "categories": [
+        "Physics",
+        "Quantum Mechanics"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Photoelectric effect"
+        },
+        {
+          "id": 1,
+          "label": "Operator noncommutativity"
+        },
+        {
+          "id": 2,
+          "label": "Doppler effect"
+        },
+        {
+          "id": 3,
+          "label": "Brownian motion"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 67,
+      "question": "Which theorem connects continuous symmetries of a physical system with conservation laws?",
+      "categories": [
+        "Physics",
+        "Mathematics"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Noether's theorem"
+        },
+        {
+          "id": 1,
+          "label": "Gauss's theorem"
+        },
+        {
+          "id": 2,
+          "label": "Green's theorem"
+        },
+        {
+          "id": 3,
+          "label": "Pythagorean theorem"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 68,
+      "question": "In Bayesian inference, what is the posterior proportional to?",
+      "categories": [
+        "Mathematics",
+        "Probability",
+        "Statistics"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Prior divided by likelihood"
+        },
+        {
+          "id": 1,
+          "label": "Likelihood times prior"
+        },
+        {
+          "id": 2,
+          "label": "Evidence minus prior"
+        },
+        {
+          "id": 3,
+          "label": "Likelihood divided by prior"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 69,
+      "question": "Which algorithm finds shortest paths from a source in a graph with possibly negative edge weights but no negative cycles?",
+      "categories": [
+        "Algorithms",
+        "Computer Science"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Dijkstra's algorithm"
+        },
+        {
+          "id": 1,
+          "label": "Bellman-Ford algorithm"
+        },
+        {
+          "id": 2,
+          "label": "Prim's algorithm"
+        },
+        {
+          "id": 3,
+          "label": "Kruskal's algorithm"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 70,
+      "question": "What is the rank of a matrix in linear algebra?",
+      "categories": [
+        "Mathematics",
+        "Linear Algebra"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Its determinant"
+        },
+        {
+          "id": 1,
+          "label": "The dimension of its column space"
+        },
+        {
+          "id": 2,
+          "label": "Its largest entry"
+        },
+        {
+          "id": 3,
+          "label": "The number of diagonal entries"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 71,
+      "question": "Which paradox challenges naive assumptions about sets that contain themselves?",
+      "categories": [
+        "Mathematics",
+        "Logic",
+        "Set Theory"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Russell's paradox"
+        },
+        {
+          "id": 1,
+          "label": "Twin paradox"
+        },
+        {
+          "id": 2,
+          "label": "Birthday paradox"
+        },
+        {
+          "id": 3,
+          "label": "Monty Hall problem"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 72,
+      "question": "Which theorem states that every bounded sequence in R^n has a convergent subsequence?",
+      "categories": [
+        "Mathematics",
+        "Analysis"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Bolzano-Weierstrass theorem"
+        },
+        {
+          "id": 1,
+          "label": "Fermat's theorem"
+        },
+        {
+          "id": 2,
+          "label": "Green's theorem"
+        },
+        {
+          "id": 3,
+          "label": "Rolle's theorem"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 73,
+      "question": "What is the Shannon entropy of a fair binary random variable, measured in bits?",
+      "categories": [
+        "Information Theory",
+        "Mathematics"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "0"
+        },
+        {
+          "id": 1,
+          "label": "0.5"
+        },
+        {
+          "id": 2,
+          "label": "1"
+        },
+        {
+          "id": 3,
+          "label": "2"
+        }
+      ],
+      "correctOptionId": 2
+    },
+    {
+      "id": 74,
+      "question": "Which cryptographic assumption underlies the security of RSA in its classical formulation?",
+      "categories": [
+        "Cryptography",
+        "Computer Science"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Easy factoring"
+        },
+        {
+          "id": 1,
+          "label": "Difficulty of integer factorization"
+        },
+        {
+          "id": 2,
+          "label": "Difficulty of sorting"
+        },
+        {
+          "id": 3,
+          "label": "Difficulty of hashing"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 75,
+      "question": "In quantum mechanics, the absolute square of a normalized wavefunction gives what?",
+      "categories": [
+        "Physics",
+        "Quantum Mechanics"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Energy directly"
+        },
+        {
+          "id": 1,
+          "label": "Probability density"
+        },
+        {
+          "id": 2,
+          "label": "Momentum directly"
+        },
+        {
+          "id": 3,
+          "label": "Temperature"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 76,
+      "question": "Which theorem states that a continuous function on a compact set attains both a maximum and a minimum?",
+      "categories": [
+        "Mathematics",
+        "Analysis"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Extreme value theorem"
+        },
+        {
+          "id": 1,
+          "label": "Central limit theorem"
+        },
+        {
+          "id": 2,
+          "label": "Fundamental theorem of arithmetic"
+        },
+        {
+          "id": 3,
+          "label": "Mean value theorem"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 77,
+      "question": "Which class contains decision problems verifiable in polynomial time?",
+      "categories": [
+        "Computer Science",
+        "Complexity"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "P"
+        },
+        {
+          "id": 1,
+          "label": "NP"
+        },
+        {
+          "id": 2,
+          "label": "PSPACE only"
+        },
+        {
+          "id": 3,
+          "label": "EXP only"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 78,
+      "question": "What does the eigenvalue equation Av = λv imply about v when v is nonzero?",
+      "categories": [
+        "Mathematics",
+        "Linear Algebra"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "v is an eigenvector of A"
+        },
+        {
+          "id": 1,
+          "label": "v is necessarily zero"
+        },
+        {
+          "id": 2,
+          "label": "A is necessarily invertible"
+        },
+        {
+          "id": 3,
+          "label": "λ is necessarily zero"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 79,
+      "question": "Which cosmological observation provides strong evidence that the universe is expanding?",
+      "categories": [
+        "Astronomy",
+        "Cosmology"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Stellar parallax alone"
+        },
+        {
+          "id": 1,
+          "label": "Galactic redshift-distance relation"
+        },
+        {
+          "id": 2,
+          "label": "Lunar phases"
+        },
+        {
+          "id": 3,
+          "label": "Solar eclipses"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 80,
+      "question": "If a function is differentiable at a point, what does that guarantee?",
+      "categories": [
+        "Mathematics",
+        "Calculus"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "It is discontinuous there"
+        },
+        {
+          "id": 1,
+          "label": "It is continuous there"
+        },
+        {
+          "id": 2,
+          "label": "It has a global maximum"
+        },
+        {
+          "id": 3,
+          "label": "Its second derivative exists"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 81,
+      "question": "Which theorem guarantees that every finite subgroup of the multiplicative group of a field is cyclic?",
+      "categories": [
+        "Mathematics",
+        "Abstract Algebra"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Finite subgroup theorem"
+        },
+        {
+          "id": 1,
+          "label": "Structure theorem for finite abelian groups"
+        },
+        {
+          "id": 2,
+          "label": "Lagrange's theorem"
+        },
+        {
+          "id": 3,
+          "label": "Cyclic subgroup theorem"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 82,
+      "question": "In special relativity, which quantity is invariant for all inertial observers?",
+      "categories": [
+        "Physics",
+        "Relativity"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Coordinate time"
+        },
+        {
+          "id": 1,
+          "label": "Spatial distance alone"
+        },
+        {
+          "id": 2,
+          "label": "Spacetime interval"
+        },
+        {
+          "id": 3,
+          "label": "Kinetic energy"
+        }
+      ],
+      "correctOptionId": 2
+    },
+    {
+      "id": 83,
+      "question": "Which complexity class is closed under polynomial-time many-one reductions and contains SAT?",
+      "categories": [
+        "Computer Science",
+        "Complexity"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "P"
+        },
+        {
+          "id": 1,
+          "label": "NP"
+        },
+        {
+          "id": 2,
+          "label": "L"
+        },
+        {
+          "id": 3,
+          "label": "NC"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 84,
+      "question": "For a symmetric real matrix, what can be said about its eigenvalues?",
+      "categories": [
+        "Mathematics",
+        "Linear Algebra"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "They are all real"
+        },
+        {
+          "id": 1,
+          "label": "They are all positive"
+        },
+        {
+          "id": 2,
+          "label": "They are all distinct"
+        },
+        {
+          "id": 3,
+          "label": "They are all integers"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 85,
+      "question": "Which theorem characterizes when a sequence of functions may exchange limit and integral under a standard domination condition?",
+      "categories": [
+        "Mathematics",
+        "Analysis"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Dominated convergence theorem"
+        },
+        {
+          "id": 1,
+          "label": "Green's theorem"
+        },
+        {
+          "id": 2,
+          "label": "Mean value theorem"
+        },
+        {
+          "id": 3,
+          "label": "Cauchy's integral theorem"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 86,
+      "question": "Which physical effect is directly responsible for the frequency shift observed when a source and observer move relative to each other?",
+      "categories": [
+        "Physics",
+        "Waves"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Doppler effect"
+        },
+        {
+          "id": 1,
+          "label": "Compton effect"
+        },
+        {
+          "id": 2,
+          "label": "Hall effect"
+        },
+        {
+          "id": 3,
+          "label": "Casimir effect"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 87,
+      "question": "Which problem asks whether a given Turing machine eventually halts on a given input?",
+      "categories": [
+        "Computer Science",
+        "Theory of Computation"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Halting problem"
+        },
+        {
+          "id": 1,
+          "label": "Knapsack problem"
+        },
+        {
+          "id": 2,
+          "label": "Clique problem"
+        },
+        {
+          "id": 3,
+          "label": "Traveling salesman problem"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 88,
+      "question": "Which mathematical structure consists of a set with an associative operation, an identity, and inverses for every element?",
+      "categories": [
+        "Mathematics",
+        "Abstract Algebra"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Ring"
+        },
+        {
+          "id": 1,
+          "label": "Group"
+        },
+        {
+          "id": 2,
+          "label": "Field"
+        },
+        {
+          "id": 3,
+          "label": "Vector space"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 89,
+      "question": "Which physical law relates the voltage across a resistor to current and resistance?",
+      "categories": [
+        "Physics",
+        "Electricity"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Ohm's law"
+        },
+        {
+          "id": 1,
+          "label": "Faraday's law"
+        },
+        {
+          "id": 2,
+          "label": "Lenz's law"
+        },
+        {
+          "id": 3,
+          "label": "Ampere's law"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 90,
+      "question": "A fair coin is tossed repeatedly until the first head appears. What is the expected number of tosses?",
+      "categories": [
+        "Mathematics",
+        "Probability"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "1"
+        },
+        {
+          "id": 1,
+          "label": "2"
+        },
+        {
+          "id": 2,
+          "label": "3"
+        },
+        {
+          "id": 3,
+          "label": "4"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 91,
+      "question": "Which result shows that no consistent formal system capable of expressing elementary arithmetic can prove all true arithmetic statements, assuming it is effectively axiomatized?",
+      "categories": [
+        "Mathematics",
+        "Logic"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Completeness theorem"
+        },
+        {
+          "id": 1,
+          "label": "First incompleteness theorem"
+        },
+        {
+          "id": 2,
+          "label": "Intermediate value theorem"
+        },
+        {
+          "id": 3,
+          "label": "Bayes' theorem"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 92,
+      "question": "In general relativity, the equivalence principle identifies local indistinguishability between which two effects?",
+      "categories": [
+        "Physics",
+        "Relativity"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Mass and energy"
+        },
+        {
+          "id": 1,
+          "label": "Gravity and acceleration"
+        },
+        {
+          "id": 2,
+          "label": "Time and space"
+        },
+        {
+          "id": 3,
+          "label": "Charge and field"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 93,
+      "question": "For a lossless incompressible fluid in steady flow, which principle relates pressure, speed, and height along a streamline?",
+      "categories": [
+        "Physics",
+        "Fluid Mechanics"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Pascal's principle"
+        },
+        {
+          "id": 1,
+          "label": "Bernoulli's principle"
+        },
+        {
+          "id": 2,
+          "label": "Hooke's law"
+        },
+        {
+          "id": 3,
+          "label": "Gauss's law"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 94,
+      "question": "Which computational problem is the canonical NP-complete problem involving finding a subset whose sum equals a target?",
+      "categories": [
+        "Computer Science",
+        "Algorithms",
+        "Complexity"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Sorting"
+        },
+        {
+          "id": 1,
+          "label": "Subset Sum"
+        },
+        {
+          "id": 2,
+          "label": "Binary Search"
+        },
+        {
+          "id": 3,
+          "label": "Minimum Spanning Tree"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 95,
+      "question": "If a square matrix has determinant zero, what must be true?",
+      "categories": [
+        "Mathematics",
+        "Linear Algebra"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "It is orthogonal"
+        },
+        {
+          "id": 1,
+          "label": "It is singular"
+        },
+        {
+          "id": 2,
+          "label": "It is diagonal"
+        },
+        {
+          "id": 3,
+          "label": "It has only positive eigenvalues"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 96,
+      "question": "Which phenomenon demonstrates that measurement outcomes can depend on the order of noncommuting quantum observables?",
+      "categories": [
+        "Physics",
+        "Quantum Mechanics"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Photoelectric effect"
+        },
+        {
+          "id": 1,
+          "label": "Operator noncommutativity"
+        },
+        {
+          "id": 2,
+          "label": "Doppler effect"
+        },
+        {
+          "id": 3,
+          "label": "Brownian motion"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 97,
+      "question": "Which theorem connects continuous symmetries of a physical system with conservation laws?",
+      "categories": [
+        "Physics",
+        "Mathematics"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Noether's theorem"
+        },
+        {
+          "id": 1,
+          "label": "Gauss's theorem"
+        },
+        {
+          "id": 2,
+          "label": "Green's theorem"
+        },
+        {
+          "id": 3,
+          "label": "Pythagorean theorem"
+        }
+      ],
+      "correctOptionId": 0
+    },
+    {
+      "id": 98,
+      "question": "In Bayesian inference, what is the posterior proportional to?",
+      "categories": [
+        "Mathematics",
+        "Probability",
+        "Statistics"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Prior divided by likelihood"
+        },
+        {
+          "id": 1,
+          "label": "Likelihood times prior"
+        },
+        {
+          "id": 2,
+          "label": "Evidence minus prior"
+        },
+        {
+          "id": 3,
+          "label": "Likelihood divided by prior"
+        }
+      ],
+      "correctOptionId": 1
+    },
+    {
+      "id": 99,
+      "question": "Which algorithm finds shortest paths from a source in a graph with possibly negative edge weights but no negative cycles?",
+      "categories": [
+        "Algorithms",
+        "Computer Science"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "label": "Dijkstra's algorithm"
+        },
+        {
+          "id": 1,
+          "label": "Bellman-Ford algorithm"
+        },
+        {
+          "id": 2,
+          "label": "Prim's algorithm"
+        },
+        {
+          "id": 3,
+          "label": "Kruskal's algorithm"
+        }
+      ],
+      "correctOptionId": 1
+    }
+  ]
+}

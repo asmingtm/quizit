@@ -1,0 +1,68 @@
+.action-list{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+
+  gap: 0.4em;
+  padding: 1em;
+}
+
+.action{
+  cursor: pointer;
+  position: relative;
+
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+
+  height: fit-content;
+
+  font-size: 1em;
+  background: var(--solid-raised);
+
+  outline: none;
+  border: none;
+  border-radius: var(--radius);
+
+  gap: 0.4em;
+  padding: 0.8em 2.2em;
+  transition: all var(--delay);
+}
+.action:hover{
+  background: var(--solid-raised-hover);
+
+  scale: 1.04;
+  rotate: 0.6deg;
+}
+.action:active{
+  scale: 0.96;
+  rotate: -0.6deg;
+}
+
+.action-index{
+  position: absolute;
+  left: 1em; top: 1.2em;
+
+  font-size: 0.8em;
+  font-style: normal;
+  color: var(--summary);
+  text-align: right;
+}
+.action-label{
+  text-align: left;
+}
+
+.action.positive.active{
+  background: var(--sucess);
+
+  * {
+    color: black;
+  }
+}
+
+.action.negative.active{
+  background: var(--error);
+
+  * {
+    color: black;
+  }
+}

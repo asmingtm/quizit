@@ -1,0 +1,29 @@
+:root{
+  color-scheme: dark;
+
+  --bgd: hsl(0, 0%, 4%);
+  --bgd-raised: hsl(0, 0%, 6%);
+
+  --solid: hsl(0, 0%, 8%);
+  --solid-raised: hsl(0, 0%, 13%);
+  --solid-raised-hover: hsl(0, 0%, 16%);
+
+  --shadow: hsla(0, 0%, 0%, 0.1);
+
+  --label: hsl(0, 0%, 100%);
+  --summary: hsl(0, 0%, 75%);
+
+  --sucess: rgb(34, 117, 97);
+  --error: rgb(218, 17, 17);
+
+  --radius: 12px;
+  --thickness: 1px;
+  --delay: 100ms;
+}
+
+@keyframes load-in {
+  from{
+    scale: 0;
+    opacity: 0;
+  }
+}

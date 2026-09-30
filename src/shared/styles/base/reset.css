@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+
+  color: var(--label);
+  font-family: 'Fira Code', Arial, Helvetica, sans-serif;
+}
+body{
+  background: linear-gradient(
+    to bottom left,
+    var(--bgd),
+    var(--bgd-raised)
+  );
+}
